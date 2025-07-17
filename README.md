@@ -1,4 +1,4 @@
-# 📰 DeepSeek Politics News Fetcher
+# 📰 DeepSeek News Fetcher
 
 ## 📌 About
 The **DeepSeek Politics News Fetcher** is a PHP script that automatically fetches **fresh and unique Politics news articles** from the DeepSeek API and stores them into a MySQL database (`gonews` table).  
