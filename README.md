@@ -48,7 +48,7 @@ You can customize the following easily in the PHP file:
 ---
 
 ## 📸 Screenshot (Optional)
-_Add a screenshot of the admin panel here if you want._
+<img width="1440" height="812" alt="Screenshot 2025-07-17 at 08 26 56" src="https://github.com/user-attachments/assets/6e07a1c6-4902-4e84-96ff-4d10f47f9e2f" />
 
 ---
 
